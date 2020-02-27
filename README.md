@@ -1,2 +1,2 @@
 # Windows-xp-symblo-packege
-xp的符号表
+Windows系统的符号表(供windbg使用)
